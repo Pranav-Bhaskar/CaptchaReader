@@ -1,7 +1,7 @@
 # Captcha_Reader
 It consists of some captchas and their respective RGB colour values for each pixel. The program takes the image (text file as input) and returns the words writen in it. 
 # Running The Code
-1) Select any of the 20 captcha options from the input file.(EG : 19.jpg)
+1) Select any of the 24 captcha options from the input file.(EG : 19.jpg)
   
 2) Copy the corresponding text file to the captcha file.(EG : 19.txt)
   
